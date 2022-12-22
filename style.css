@@ -1,5 +1,6 @@
 body{
-  background: url("img/sep09-01.svg");
+/*   background: url("img/sep09-01.svg"); */
+  background-color: #10182f!important;
 }
 a {
   color: #000000!important;
