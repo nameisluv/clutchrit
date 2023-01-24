@@ -197,6 +197,7 @@ transition: 1s;
 .paddi{
   padding-left: 15%;
   padding-right: 15%;
+  text-align: center!important;
   max-height: 11rem;
   overflow-y: scroll;
 }
